@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bugatti Bolide 2020
+* source:	https://sketchfab.com/3d-models/bugatti-bolide-2020-7330fc710d66433db9c787e4683f4a69
+* author:	louweeeeee___ (https://sketchfab.com/Louweee___)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bugatti Bolide 2020" (https://sketchfab.com/3d-models/bugatti-bolide-2020-7330fc710d66433db9c787e4683f4a69) by louweeeeee___ (https://sketchfab.com/Louweee___) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
